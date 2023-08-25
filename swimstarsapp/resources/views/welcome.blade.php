@@ -13,8 +13,7 @@
     </head>
     <body>
         <div id="app">
-            <example-component></example-component>
-            test
+            <router-view></router-view>
         </div>
     </body>
     <script src="{{ mix('/js/app.js') }}"></script>
