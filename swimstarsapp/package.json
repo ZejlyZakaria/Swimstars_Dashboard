@@ -25,6 +25,7 @@
         "vue-template-compiler": "^2.5.17"
     },
     "dependencies": {
+        "flowbite": "^1.8.1",
         "vue": "^2.5.17",
         "vue-router": "^2.8.1"
     }

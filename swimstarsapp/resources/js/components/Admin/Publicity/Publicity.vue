@@ -1,10 +1,11 @@
 <template>
-    <div> je suis le sms</div>
+<div>
+    this is publicity
+</div>
 </template>
 
 <script>
 export default {
 
-};
+}
 </script>
-

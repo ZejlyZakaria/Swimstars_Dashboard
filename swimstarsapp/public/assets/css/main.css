@@ -1,0 +1,63 @@
+.bg-rosecolor {
+    background: rgb(165, 32, 70);
+    background: linear-gradient(
+        90deg,
+        rgba(165, 32, 70, 1) 0%,
+        rgba(210, 60, 159, 1) 48%,
+        rgba(241, 176, 250, 1) 100%
+    );
+}
+.bg-orangecolor {
+    /* background: rgb(255, 152, 28);
+    background: linear-gradient(
+        90deg,
+        rgba(255, 152, 28, 1) 0%,
+        rgba(255, 173, 79, 1) 48%,
+        rgba(255, 197, 71, 1) 100%
+    ); */
+    background-color: #ffd24b;
+}
+.bg-purplecolor {
+    background: rgb(148, 117, 210);
+    background: linear-gradient(
+        90deg,
+        rgba(148, 117, 210, 1) 0%,
+        rgba(172, 127, 219, 1) 48%,
+        rgba(217, 140, 255, 1) 100%
+    );
+}
+
+.bg-bluecolor {
+    /* background: rgb(86, 119, 245);
+    background: linear-gradient(
+        90deg,
+        rgba(86, 119, 245, 1) 0%,
+        rgba(124, 159, 255, 1) 48%,
+        rgba(145, 179, 245, 1) 100%
+    ); */
+    background-color: #789AF5;
+}
+.bg-greencolor {
+    background: rgb(80, 154, 48);
+    background: linear-gradient(
+        90deg,
+        rgba(80, 154, 48, 1) 0%,
+        rgba(113, 181, 22, 1) 48%,
+        rgba(179, 242, 83, 1) 100%
+    );
+}
+.bg-purple {
+    background-color: #eaeaff;
+}
+.bg-rose {
+    background-color: #fae1e1;
+}
+.bg-green {
+    background-color: #d8e6e1;
+}
+.cl-rose {
+    color: #704848;
+}
+.cl-green {
+    color: #577067;
+}
